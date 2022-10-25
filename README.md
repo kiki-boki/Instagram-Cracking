@@ -12,9 +12,9 @@ _________________________________
 __________________________________
 # 🔰 LIST Harga Tools 🔰
 ________________________________________
-* PERBULAN/TIDAK MENERIMA UPDATE         :Rp.30K
-* PERMANEN/MENERIMA SETIAP UPDATE TOOLS  :Rp.60K
-* OPEN SOURCE                            :Rp.100K
+- Permanen   : 50K
+- Perbulan   : 25K
+- OpenSource : 100K
 ________________________________________
 # 🔰 Untuk Tampilan 🔰
 ![image.png](https://i.postimg.cc/qBLNL14n/2022-10-22-7.png)
