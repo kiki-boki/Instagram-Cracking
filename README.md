@@ -18,3 +18,7 @@ Mayan Lah:v
 * git clone https://github.com/kiki-boki/Instagram-Cracking
 * cd Instagram-Cracking
 * python run.py
+# LIST HARGA
+* PERBULAN/TIDAK MENERIMA UPDATE         :30K
+* PERMANEN/MENERIMA SETIAP UPDATE TOOLS  :60K
+* OPEN SOURCE                            :100K
