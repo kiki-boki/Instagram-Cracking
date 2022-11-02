@@ -17,7 +17,7 @@ ________________________________________
 - OpenSource : 100K
 ________________________________________
 # 🔰 Untuk Tampilan 🔰
-![image.png](https://i.postimg.cc/qBLNL14n/2022-10-22-7.png)
+![image.png](https://i.postimg.cc/MGnxXFLK/2022-11-02-1.png)
 # 🔰 Untuk Hasil Nya 🔰
 ![image.png](https://i.postimg.cc/nrV6pFsH/2022-10-22-6.png)
 Mayan Lah:v
